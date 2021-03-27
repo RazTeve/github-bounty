@@ -1,6 +1,6 @@
 # Github-Bounty
 
-Github bounty can be used as a way do collect donations for specific issues.
+Github bounty can be used as a way to collect donations for specific issues.
 
 Example use-cases are shown in this repos issues.
 
